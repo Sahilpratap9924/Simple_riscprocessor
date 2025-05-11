@@ -38,7 +38,7 @@ The SimpleRISC Assembler translates assembly language code written for the Simpl
 
 Access the SimpleRISC Assembler directly in your browser:
 
-1. Go to [ https://kevin-eleven.github.io/Assembler_SimpleRisc]( https://kevin-eleven.github.io/Assembler_SimpleRisc)
+1. Go to [ https://Sahilpratap9924.github.io/Simple_riscprocessor]( https://Sahilpratap9924.github.io/Simple_riscprocessor)
 2. Enter your assembly code in the editor
 3. Click "Assemble" to convert it to machine code
 4. Use the "Load" and "Save" buttons to manage your assembly files
@@ -50,7 +50,7 @@ To run or modify the assembler locally:
 1. Clone the repository
 
    ```bash
-   git clone  https://kevin-eleven.github.io/Assembler_SimpleRisc
+   git clone  https://Sahilpratap9924.github.io/Simple_riscprocessor
    cd Assembler_SimpleRisc
    ```
 
